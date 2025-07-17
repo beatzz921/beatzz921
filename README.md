@@ -28,12 +28,12 @@ Currently working on personal projects and constantly learning.
 
 Here are some of the projects you might want to check out:
 
-- [🧮 Fibonacci API (Java/Spring Boot)](https://github.com/beatzz921/fibonacci-api-rest)
+- [🧮 Fibonacci Rest API (Java/Spring Boot)](https://github.com/beatzz921/fibonacci-api-rest)
 
 ---
 
 ## 📫 Contact
-- LinkedIN: [https://www.linkedin.com/in/jendry-ugarte-54098a120]
+- LinkedIn: [https://www.linkedin.com/in/jendry-ugarte-54098a120]
 - Email: [jendryuv@gmail.com]
 
 ---
