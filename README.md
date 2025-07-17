@@ -33,7 +33,7 @@ Here are some of the projects you might want to check out:
 ---
 
 ## 📫 Contact
-
+- LinkedIN: [https://www.linkedin.com/in/jendry-ugarte-54098a120]
 - Email: [jendryuv@gmail.com]
 
 ---
