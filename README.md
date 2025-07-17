@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jendry Ugarte Vargas</h1>
 
-<!--
-**beatzz921/beatzz921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Senior PHP Developer | Symfony · PHP · PostgreSQL · Java · SpringBoot · Docker · RabbitMQ · Git</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+I'm a **Senior PHP Developer** focused on building robust and maintainable backend solutions.
+
+I'm passionate about clean code, efficiency, and solving real-world problems with smart architecture.  
+Currently working on personal projects and constantly learning.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Backend:** Symfony, PHP, Java (Spring Boot)
+- **Database:** PostgreSQL
+- **Tools:** Docker, RabbitMQ, Git
+- **Other:** REST APIs, Messaging Queues, CI/CD (learning phase)
+
+---
+
+## 📌 Pinned Projects
+
+Here are some of the projects you might want to check out:
+
+- [🧮 Fibonacci API (Java/Spring Boot)](https://github.com/beatzz921/fibonacci-api-rest)
+
+---
+
+## 📫 Contact
+
+- Email: [jendryuv@gmail.com]
+
+---
