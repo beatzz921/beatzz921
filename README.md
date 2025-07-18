@@ -28,7 +28,9 @@ Currently working on personal projects and constantly learning.
 
 Here are some of the projects you might want to check out:
 
-- [🧮 Fibonacci Rest API (Java/Spring Boot)](https://github.com/beatzz921/fibonacci-api-rest)
+- [Fibonacci Rest API (Java/Spring Boot)](https://github.com/beatzz921/fibonacci-api-rest)
+- [Price Rest API (Java/Spring Boot)](https://github.com/beatzz921/price-api-springboot)
+- [Eskala Sports Online Store (PHP/Symfony)](https://github.com/beatzz921/price-api-springboot.git) _( Private repository — available upon request.)_
 
 ---
 
